@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Metabaskercover.PNG
+cover: https://www.linkpicture.com/q/Metabaskercover.png
 coverY: 0
 ---
 
@@ -13,22 +13,22 @@ Metabasket VR provides a unique P2E opportunity by creating a VR-AR based basket
 
 Metaverse P2E Basketball game with rewards, gift boxes, fun graphics and simple yet addictive gameplay. Token is used to buy credits to shoot more, choose among various ball and backboard designs and more entertaining features yet to be announced. Everytime the ball is scored it is turned into a gift box rewarding the shooters with unique items.
 
-* P2E Available in VR\&AR&#x20;
-* Unique rewards&#x20;
-* Flawless animations&#x20;
+* P2E Available in VR\&AR
+* Unique rewards
+* Flawless animations
 * Valuable Basketball NFT Cards
-* &#x20;Marketplace for NFT Cards
+* Marketplace for NFT Cards
 * Token Hunt for FREE
 * Leaderboard & Ranking Rewards for loyal holders
 
 ## TOKENOMICS - DISTRIBUTION
 
-Total Supply: 10.000.000&#x20;
+Total Supply: 10.000.000
 
-* Liquidity: 6.000.000 (60.00 %)&#x20;
-  1. Marketing: 1.500.000 (15.00 %)&#x20;
-  2. Development 1.500.000 (15.00 %)&#x20;
-  3. Team 500.000 (5.00%)&#x20;
+* Liquidity: 6.000.000 (60.00 %)
+  1. Marketing: 1.500.000 (15.00 %)
+  2. Development 1.500.000 (15.00 %)
+  3. Team 500.000 (5.00%)
   4. Rewards 500.000 (5.00%)
 
 ## TAXATION - REWARDS
@@ -39,21 +39,21 @@ Total Supply: 10.000.000&#x20;
 
 ## TOKEN UTILITY
 
-* Buying credits to shoot more&#x20;
-* Adding unique items to your inventory&#x20;
-* Buying tools to increase your in game winning chances&#x20;
-* Marketplace as a currency&#x20;
-* Converting hunted tokens into rewards&#x20;
+* Buying credits to shoot more
+* Adding unique items to your inventory
+* Buying tools to increase your in game winning chances
+* Marketplace as a currency
+* Converting hunted tokens into rewards
 * Buy & Sell NFTs
 
 ## TEAM
 
 **A group of anonymous NBA enthusiasts teamed up with blockchain software developers. They joined forces and expertise they collected in their own respective fields. Their expertise areas include but not limited to**
 
-* Project development&#x20;
-* Marketing Sports and Entertainment Management&#x20;
-* Game Design&#x20;
-* AR & VR Design&#x20;
+* Project development
+* Marketing Sports and Entertainment Management
+* Game Design
+* AR & VR Design
 * Blockchain Consultancy
 
 ## **CONTRACT**
