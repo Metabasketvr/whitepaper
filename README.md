@@ -1,5 +1,5 @@
 ---
-cover: https://www.linkpicture.com/q/Metabaskercover.png
+cover: .gitbook/assets/Metabaskercover.PNG
 coverY: 0
 ---
 
