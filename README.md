@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/Metabaskercover.PNG
-coverY: 1
+coverY: 0
 ---
 
 # 🏀 METABASKET VR (MBALL) WHITEPAPER
