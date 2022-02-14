@@ -1,5 +1,5 @@
 ---
-cover: Whitepaper/.gitbook/assets/Metabaskercover.PNG
+cover: .gitbook/assets/Metabaskercover.PNG
 coverY: 0
 ---
 
